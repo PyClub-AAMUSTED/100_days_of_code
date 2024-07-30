@@ -12,7 +12,7 @@ Welcome to the 100 Days of Code project repository! This project is designed to 
 6. [Resources](#resources)
 7. [Contact](#contact)
 8. [Tasks](./tasks.md)
-9. [100 days of code](./100daysofcode)
+9. [100 days of code](./100daysofcode.md)
 
 ## Introduction
 
