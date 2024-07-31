@@ -18,6 +18,8 @@ Welcome to the 100 Days of Code project repository! This project is designed to 
 
 The 100 Days of Code project is a community-driven initiative aimed at encouraging consistent practice and learning. Each day, participants are encouraged to write code, document their progress, and share their experiences. This repository contains a variety of exercises, projects, and challenges suitable for different skill levels.
 
+After solving each problem, please take the time to test your solution and makesure that your solution works perfectly well before making a pull request (**Write Test for yout solutions**). This exercise will go a long way to help you cultivate the habit of writing tests. Writing tests is an essential skill in the world of programming as it proves that your solution is credeble and utilized to solve problems without fear of failure.
+
 ## Getting Started
 
 To start contributing, follow these steps:
@@ -56,6 +58,7 @@ To start contributing, follow these steps:
 
 
 ### Intermediate
+
 [Link to Intermediate tasks](./tasks.md/#intermediate)
 
 1. **Choose a Project:** Navigate to the `intermediate` folder and choose a project.
@@ -98,8 +101,42 @@ To start contributing, follow these steps:
 ## Project Structure
 
 The repository is organized into three main sections:
+1. Beginner
+2. Intermediate
+3. Advanced
 
+Select the category that best suits your skills level in python.
 
-100-days-of-code-python
-![image](./img/Capture.PNG)
+Inside the category folder, create another directory(folder) with your name (github username preferrably) and write your solutions inside it.
 
+Name each solution with the name of the day, e.g. `day_1_tastk.py` and your solutions should be in a funtions named `task_solution` such as:
+
+```py
+def task_solution(num1, num2):
+    result = num1 + num2
+    return result
+```
+In the above example, the task is the add two numbers, each solution should be in this format for smooth running of tests to solutions before they are merged.
+
+- ### Example of foler structure
+We exoect to see the following structure in your solution
+```
+|-Beginner
+|  |__Ezi-code
+|       |-day_1_task.py
+```
+
+<!-- ![image](./img/Capture.PNG) -->
+
+# 
+Please feel free to leave us your comments through out email as we would love to improve upon this program in the future.
+
+**Happy Coding!!!!**  
+```
+aamusted@pyclubs.org
+```
+
+Club Lead [Ezra Yendau]()\
+Co-lead [Addison Jnr]()\
+Sevretaty [Amenyo George]()\
+Ladies Lead [Hijara]()
