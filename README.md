@@ -136,7 +136,7 @@ Please feel free to leave us your comments through out email as we would love to
 aamusted@pyclubs.org
 ```
 
-Club Lead [Ezra Yendau]()\
+Club Lead [Ezra Yendau](https://github.com/ezi-code)\
 Co-lead [Addison Jnr]()\
 Sevretaty [Amenyo George]()\
-Ladies Lead [Hijara]()
+Ladies Lead [Esson Hajirah Tawiah](https://github.com/Erhmprez)
