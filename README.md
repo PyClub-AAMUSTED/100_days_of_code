@@ -129,9 +129,12 @@ We exoect to see the following structure in your solution
 <!-- ![image](./img/Capture.PNG) -->
 
 # Resources 
-**Python Resources**\
-[Python Documentation]("https://docs.python.org/3/")\
-[Introduction to python](https://www.youtube.com/watch?v=kqtD5dpn9C8)\
+**Python Resources**
+
+[Python Documentation]("https://docs.python.org/3/")
+
+[Introduction to python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+
 [Intermediate python course]("https://www.youtube.com/watch?v=yetjswpSAsA&list=PLOLrQ9Pn6caws6aPJoCD_UmWRE91257Xm")
 
 **Git and GitHub Resources**\
