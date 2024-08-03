@@ -15,3 +15,4 @@ def task_solution(n):
         b = c
         seq.append(b)
     return seq
+

@@ -3,6 +3,3 @@ def task_solution(n):
     for i in range(1, n + 1):
         result *= i
     return result
-
-
-assert ()
