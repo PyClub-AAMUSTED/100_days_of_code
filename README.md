@@ -128,13 +128,26 @@ We exoect to see the following structure in your solution
 
 <!-- ![image](./img/Capture.PNG) -->
 
-# 
+# Resources 
+**Python Resources**
+
+[Python Documentation](https://docs.python.org/3/)
+
+[Introduction to python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+
+[Intermediate python course](https://www.youtube.com/watch?v=yetjswpSAsA&list=PLOLrQ9Pn6caws6aPJoCD_UmWRE91257Xm)
+
+**Git and GitHub Resources**\
+[Introduction to Git and GitHub](https://www.youtube.com/watch?v=l2yrJtwoC_E)
+
+# Contact Us
 Please feel free to leave us your comments through out email as we would love to improve upon this program in the future.
 
 **Happy Coding!!!!**  
 ```
 aamusted@pyclubs.org
 ```
+This is also a link to a whatsapp platform dedicated for this project: [WhatsApp Group Link](https://chat.whatsapp.com/CpkclfVGWjl7p4uTwxwsCI) 
 
 Club Lead [Ezra Yendau](https://github.com/ezi-code)\
 Co-lead [Addison Jnr](https://github.com/Francmen)\
