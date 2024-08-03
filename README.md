@@ -54,7 +54,7 @@ To start contributing, follow these steps:
     ```bash
     git push origin beginners/task-name
     ```
-6. **Create a Pull Request:** Go to your repository on GitHub and create a pull request to merge your changes into the main repository.
+6. **Create a Pull Request:** Go to your repository on GitHub and create a pull request to the `lead` branch to merge your changes into the main repository after running them through a series of tests.
 
 
 ### Intermediate
@@ -150,6 +150,6 @@ aamusted@pyclubs.org
 This is also a link to a whatsapp platform dedicated for this project: [WhatsApp Group Link](https://chat.whatsapp.com/CpkclfVGWjl7p4uTwxwsCI) 
 
 Club Lead [Ezra Yendau](https://github.com/ezi-code)\
-Co-lead [Addison Jnr]()\
+Co-lead [Addison Jnr](https://github.com/Francmen)\
 Sevretaty [Amenyo George]()\
 Ladies Lead [Esson Hajirah Tawiah](https://github.com/Erhmprez)
