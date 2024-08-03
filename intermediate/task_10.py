@@ -1,3 +1,4 @@
+""" Solution for task 10 intermediate"""
 
 def recursive_factorial(number:int,memo:dict):
     """A function to calculate the factorial of a number using recursion. """
