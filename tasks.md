@@ -26,6 +26,8 @@
 8. **Simple List Operations**
    - Write a program to perform basic list operations (append, remove, pop, and insert).
 
+      - *In this task, you are required to write a class in python and write the list operations as methods of the class such that, the method can be called directly from the class with a give list as an argument passed to it.*
+
 9. **Sum of Elements in a List**
    - Write a program to find the sum of all elements in a list.
 
