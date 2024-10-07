@@ -27,11 +27,11 @@ To start contributing, follow these steps:
 1. **Fork the Repository:** Click the "Fork" button on the top right corner of this repository to create a copy in your GitHub account.
 2. **Clone the Repository:** Clone the forked repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/your-username/100-days-of-code-python.git
+    git clone https://github.com/{github-username}/pyclub_100_days_of_code.git
     ```
 3. **Navigate to the Project Directory:**
     ```bash
-    cd 100-days-of-code-python
+    cd 100_days_of_code
     ```
 
 ## How to Contribute
@@ -128,7 +128,7 @@ We exoect to see the following structure in your solution
 
 <!-- ![image](./img/Capture.PNG) -->
 
-# Resources 
+## Resources 
 **Python Resources**
 
 [Python Documentation](https://docs.python.org/3/)
@@ -140,7 +140,7 @@ We exoect to see the following structure in your solution
 **Git and GitHub Resources**\
 [Introduction to Git and GitHub](https://www.youtube.com/watch?v=l2yrJtwoC_E)
 
-# Contact Us
+## Contact Us
 Please feel free to leave us your comments through out email as we would love to improve upon this program in the future.
 
 **Happy Coding!!!!**  
@@ -149,7 +149,8 @@ aamusted@pyclubs.org
 ```
 This is also a link to a whatsapp platform dedicated for this project: [WhatsApp Group Link](https://chat.whatsapp.com/CpkclfVGWjl7p4uTwxwsCI) 
 
+## **Club Executives**
 Club Lead [Ezra Yendau](https://github.com/ezi-code)\
 Co-lead [Addison Jnr](https://github.com/Francmen)\
-Sevretaty [Amenyo George]()\
+Secretaty [Amenyo George]()\
 Ladies Lead [Esson Hajirah Tawiah](https://github.com/Erhmprez)

@@ -131,3 +131,5 @@ cython_debug/
 
 # Ignore all local .env files
 **/.env
+
+.idea/
